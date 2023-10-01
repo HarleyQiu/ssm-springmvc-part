@@ -1,0 +1,10 @@
+POST http://localhost:8080/json/data
+Content-Type: application/json
+
+{
+  "name": "张三",
+  "age": 18,
+  "gender": "男"
+}
+
+###
