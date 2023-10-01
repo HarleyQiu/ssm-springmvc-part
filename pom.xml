@@ -11,6 +11,7 @@
 
     <modules>
         <module>springmvc-base-quick-01</module>
+        <module>springmvc-base-input-02</module>
     </modules>
 
     <!-- springwebmvc
@@ -60,6 +61,12 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.28</version>
+        </dependency>
+        <!-- slf4j -->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>2.0.9</version>
         </dependency>
 
 
